@@ -14,3 +14,5 @@ iii) representing the sequence of regular patterns using a specially designed au
 The automaton is used here to both encode the sequence of structures representing the time-series and also to act as an
 inference engine to stochastic forecasting about the time-series.
 Extensive experiments are also included to demonstrate the performance of the proposed technique in structure prediction.
+
+In order to reproduce the results, just follow the instructions provided in the individual folders.
